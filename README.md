@@ -1,23 +1,23 @@
-# 3 [![License](https://img.shields.io/badge/License-BSD 3-blue.svg)](https://opensource.org/licenses/BSD 3)
+# Good README Generator [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
   
   
   
   
   ## description
-  d
+  enabling the user to generate a Good README file
 
   ## installation
-  f
+  npm install 
 
   ## usage
-  d
+  to have fun
 
   ## contributing
-  d
+  please do not this is my homework
 
   ## test
-  a
+  npm init
   
   ## license
-  BSD 3
+  MIT
 
