@@ -14,8 +14,8 @@ function generateMarkdown(data) {
   ## usage
   ${data.usage}
 
-  ## contributing
-  ${data.contributing}
+  ## contributors
+  ${data.contributors}
 
   ## test
   ${data.test}

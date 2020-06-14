@@ -1,22 +1,22 @@
-# Good README Generator [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+# README Generator [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
   
   
   
   
   ## description
-  enabling the user to generate a Good README file
+  create a well formatted readme
 
   ## installation
-  npm install 
+  npm install
 
   ## usage
-  to have fun
+  none
 
-  ## contributing
-  please do not this is my homework
+  ## contributors
+  Violet aka me
 
   ## test
-  npm init
+  none
   
   ## license
   MIT
