@@ -4,19 +4,19 @@
   
   
   ## description
-  create a well formatted readme
+  a simple and easy way to generate a README file for your project
 
   ## installation
   npm install
 
   ## usage
-  none
+  NONE
 
   ## contributors
-  Violet aka me
+  Me!
 
   ## test
-  none
+  NONE
   
   ## license
   MIT
