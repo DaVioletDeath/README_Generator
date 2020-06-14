@@ -1,16 +1,23 @@
-# Test
+# 3 [![License](https://img.shields.io/badge/License-BSD 3-blue.svg)](https://opensource.org/licenses/BSD 3)
+  
+  
+  
+  
   ## description
-  this is a test
+  d
 
   ## installation
-  test
+  f
 
   ## usage
-  test
+  d
 
   ## contributing
-  test
+  d
 
   ## test
-  test
+  a
+  
+  ## license
+  BSD 3
 
